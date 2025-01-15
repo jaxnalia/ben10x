@@ -36,7 +36,7 @@ export default {
         'energy': '#FF3131'
       },
       fontFamily: {
-        'ben10': ['BadaBoom BB', 'sans-serif']
+        'badaboom': ['Badaboom BB', 'system-ui', 'sans-serif']
       }
     },
   },

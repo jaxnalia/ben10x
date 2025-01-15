@@ -13,7 +13,7 @@
 
 <HalftoneBackground />
 
-<main class="min-h-screen font-ben10 tracking-widest">
+<main class="min-h-screen tracking-widest">
   {#if mounted}
     <Hero />
     <Features />
