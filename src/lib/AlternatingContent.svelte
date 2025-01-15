@@ -16,12 +16,12 @@
       {
         title: "Master the Memeology",
         description: "BEN10X is more than just a coin - it's the most powerful plot device in all of crypto. With it, BEN10X can transform even the most depressed chart into 10x gains. Learn to harness its power and protect the chain from evil forces.",
-        image: "../static/ben10x.jpg"
+        image: "https://raw.githubusercontent.com/jaxnalia/ben10x/refs/heads/main/static/ben10x.jpg"
       },
       {
         title: "Activate Alien Technology",
         description: "Utilize never before seen fully untested alien 10x trading software stolen just moments ago from Area 51.",
-        image: "../static/ben10x.png"
+        image: "https://raw.githubusercontent.com/jaxnalia/ben10x/refs/heads/main/static/ben10x.png"
       },
       {
         title: "Team Up with Friends",

@@ -1,7 +1,6 @@
 <script>
   import { fade, fly } from 'svelte/transition';
   import { useIntersectionObserver } from './utils/intersectionObserver.js';
-  import title from '../../static/ben10x-title.png';
 
   let isVisible = false;
 
@@ -26,7 +25,7 @@
         <div class="text-6xl font-bold mb-4" in:fly={{ y: 50, duration: 1000, delay: 400 }}>
           <!-- <span class="text-omnitrix">Ben 10</span> -->
           <!-- <span class="text-hero">Universe</span> -->
-          <img src={title} alt="">
+          <img src="https://raw.githubusercontent.com/jaxnalia/ben10x/refs/heads/main/static/ben10x-title.png" alt="Ben10x">
         </div>
         <p class="text-xl text-gray-300 max-w-2xl mx-auto" in:fly={{ y: 50, duration: 1000, delay: 600 }}>
           CA: 0x95B303987A60C71504D99Aa1b13B4DA07b0790ab
