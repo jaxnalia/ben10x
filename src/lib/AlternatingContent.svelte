@@ -25,7 +25,7 @@
       },
       {
         title: "Team Up with Friends",
-        description: "You're never alone in the fight against evil. Team up with Richard, Sommi, and other chads who bring their own unique abilities to the table. Together, you'll face challenges that no single degen could overcome alone.",
+        description: "You're never alone in the fight against corruption. Team up with Richard, Sommi, and other chads who bring their own unique abilities to the table. Together, you'll face challenges that no single degen could overcome alone.",
         image: "https://raw.githubusercontent.com/jaxnalia/ben10x/refs/heads/main/static/ben10x-grandpa.png"
       }
     ];
