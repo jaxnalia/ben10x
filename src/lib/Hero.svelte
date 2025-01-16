@@ -36,7 +36,7 @@
         <a class="bg-omnitrix text-hero px-8 py-3 rounded-full hover:bg-omnitrix/80 transition-colors" href="https://dexscreener.com/pulsechain/0x2155b5a6f34e27d68aee21f621d675e95d9796c1">
           Chart
         </a>
-        <a class="border-2 border-alien text-alien px-8 py-3 rounded-full hover:bg-alien hover:text-hero transition-colors" href="https://t.me/ben10_pls">
+        <a class="border-2 border-alien text-alien px-8 py-3 rounded-full hover:bg-alien hover:text-hero transition-colors" href="https://t.me/ben10x_pls">
           Telegram
         </a>
       </div>
