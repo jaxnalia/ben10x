@@ -28,7 +28,7 @@
           <img src="https://raw.githubusercontent.com/jaxnalia/ben10x/refs/heads/main/static/ben10x-title.png" alt="Ben10x">
         </div>
         <p class="max-sm:text-sm text-xl text-gray-300 max-w-2xl mx-auto" in:fly={{ y: 50, duration: 1000, delay: 600 }}>
-          CA: 0x0000000000000000000000000000000000000000
+          CA: 0xEb0E7214ADcBe1dB345712372a5D27301D14139E
         </p>
       </div>
       
